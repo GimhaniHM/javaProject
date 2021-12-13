@@ -1,0 +1,21 @@
+.left-bg{
+	-fx-background-color:linear-gradient(to bottom right,#2f466b,#662d60);
+}
+
+.top-bg{
+	-fx-background-color:linear-gradient(to bottom right,#2f466b,#662d60);
+}
+
+.shape-bg{
+	
+	-fx-background-color:linear-gradient(to bottom right,#2f466b,#0c9481);
+	-fx-border: none;
+  	
+	
+}
+
+
+.button-bg{
+	
+	
+}
